@@ -74,15 +74,15 @@ A communication timeout is intended to trigger an alert. Additional security fea
 
 - [x] ESP32-WROOM-32 hardware selection.
 - [x] Wi-Fi and Bluetooth architecture planning.
-- [ ] BMS Bluetooth protocol investigation.
-- [ ] BMS data acquisition and decoding.
-- [ ] Battery parameter monitoring.
-- [ ] Heartbeat monitoring.
-- [ ] Cloud connectivity and data transmission.
-- [ ] Local data buffering.
-- [ ] Tamper detection and alert system.
-- [ ] Centralized fleet dashboard.
-- [ ] Remote safety-response integration.
+- [x] BMS Bluetooth protocol investigation.
+- [x] BMS data acquisition and decoding.
+- [x] Battery parameter monitoring.
+- [x] Heartbeat monitoring.
+- [x] Cloud connectivity and data transmission.
+- [x] Local data buffering.
+- [x] Tamper detection and alert system.
+- [x] Centralized fleet dashboard.
+- [x] Remote safety-response integration.
 
 ## Long-Term Vision
 
